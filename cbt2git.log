@@ -1,0 +1,10 @@
+2023-08-06 06:52:45.684905 - Initialized conversion of CBT750
+2023-08-06 06:52:45.733015 - Received CBT.V505.FILE750.PDS from FILE750.XMI 
+2023-08-06 06:52:45.735258 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE750.PDS, moved to PDS/$$$#DATE
+2023-08-06 06:52:45.736303 - Found $$NOTE1.txt (text/plain) in CBT.V505.FILE750.PDS, moved to PDS/$$NOTE1
+2023-08-06 06:52:45.737318 - Found $INDEX.txt (text/plain) in CBT.V505.FILE750.PDS, moved to PDS/$INDEX
+2023-08-06 06:52:45.738260 - Found @FILE750.txt (text/plain) in CBT.V505.FILE750.PDS, moved to PDS/@FILE750
+2023-08-06 06:52:45.739163 - Found ISPFINI.rexx (text/plain) in CBT.V505.FILE750.PDS, moved to PDS/ISPFINI
+2023-08-06 06:52:45.740039 - Found MULTISPF.rexx (text/plain) in CBT.V505.FILE750.PDS, moved to PDS/MULTISPF
+2023-08-06 06:52:45.740912 - Found PROFSAVE.rexx (text/plain) in CBT.V505.FILE750.PDS, moved to PDS/PROFSAVE
+2023-08-06 06:52:45.741868 - Found SPFLOGOF.rexx (text/plain) in CBT.V505.FILE750.PDS, moved to PDS/SPFLOGOF
